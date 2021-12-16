@@ -4,11 +4,11 @@ module.exports = {
         something_went_wrong: "Something went wrong.",
         you_are_banned: "You are banned from Giftix!",
         beta_mode: "Giftix is currently in beta mode, you must be a beta user to access it.",
-        maintenance_mode: "We are currently doing maintenance to improve our systems, please try later."
+        maintenance_mode: "We are currently doing maintenance to improve our systems, please try again later."
     },
     server: {
         no_token_provided: "No authorization token provided!",
-        not_found: "404: Route does not exist."
+        not_found: "404: Page couldd not be found."
     },
     guilds: {
         channels: {
@@ -17,12 +17,12 @@ module.exports = {
     },
     requireds: {
         github: {
-            connect_account: "Connect your GitHub account to join in the giveaway.",
+            connect_account: "Connect your GitHub account to join the giveaway.",
             follow_account: "Follow the GitHub profile to join the giveaway."
         },
         youtube: {
-            connect_account: "Connect your YouTube account to join in the giveaway.",
-            terminated: "Your YouTube session has been terminated, log in again.",
+            connect_account: "Connect your YouTube account to join the giveaway.",
+            terminated: "Your YouTube session has been terminated, login again.",
             subscribe_channel: "Subscribe to the YouTube channel to join the giveaway."
         }
     },
